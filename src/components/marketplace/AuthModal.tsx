@@ -44,7 +44,7 @@ export function AuthModal({ open, onClose, onSuccess }: Props) {
       <DialogContent className="sm:max-w-md">
         <DialogHeader>
           <DialogTitle className="text-center text-xl font-bold">
-            {tab === "login" ? "Вход в Playerok" : "Регистрация"}
+            {tab === "login" ? "Вход в Gamers rbx" : "Регистрация"}
           </DialogTitle>
         </DialogHeader>
 

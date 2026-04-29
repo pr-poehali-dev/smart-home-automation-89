@@ -6,9 +6,9 @@ export function MarketplaceFooter() {
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">P</span>
+                <span className="text-white font-bold text-sm">G</span>
               </div>
-              <span className="font-bold text-xl text-white">Playerok</span>
+              <span className="font-bold text-xl text-white">Gamers rbx</span>
             </div>
             <p className="text-sm text-slate-400 leading-relaxed">
               Безопасный маркетплейс игровых товаров. Более 2 миллионов сделок с гарантией.
@@ -50,7 +50,7 @@ export function MarketplaceFooter() {
         </div>
 
         <div className="border-t border-slate-800 pt-6 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-slate-500 text-sm">© 2026 Playerok. Все права защищены.</p>
+          <p className="text-slate-500 text-sm">© 2026 Gamers rbx. Все права защищены.</p>
           <div className="flex gap-4 text-sm">
             <a href="#" className="text-slate-500 hover:text-white transition-colors">Политика конфиденциальности</a>
             <a href="#" className="text-slate-500 hover:text-white transition-colors">Условия использования</a>

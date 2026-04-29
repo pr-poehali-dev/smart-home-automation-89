@@ -22,9 +22,9 @@ export function MarketplaceNavbar({ user, onAuthClick, onSellClick, onProfileCli
           {/* Logo */}
           <button onClick={onLogoClick} className="flex items-center gap-2 flex-shrink-0">
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">P</span>
+              <span className="text-white font-bold text-sm">G</span>
             </div>
-            <span className="font-bold text-xl text-foreground tracking-tight">Playerok</span>
+            <span className="font-bold text-xl text-foreground tracking-tight">Gamers rbx</span>
           </button>
 
           {/* Search */}
